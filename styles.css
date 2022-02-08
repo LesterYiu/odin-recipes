@@ -1,0 +1,18 @@
+.recipes{
+    text-align:center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:medium;
+    color:black;
+}
+
+.openingtitle{
+    text-align:center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:white;
+    background-color:orange;
+}
+
+.recipepics{
+    height:auto;
+    width:200px;
+}
