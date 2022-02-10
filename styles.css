@@ -9,11 +9,15 @@
     font-family: 'Quicksand', sans-serif;
     color:white;
     background-color:orange;
+    padding:30px;
+    border:5px solid darkorange;
+    box-sizing:border-box;
 }
 
 .recipepics{
     height:auto;
     width:200px;
+    margin:30px;
 }
 
 .openingtitletwo{
@@ -24,6 +28,9 @@
 .recipetext {
     font-family: 'Quicksand', sans-serif;
     text-align:left;
+    color:black;
+    font-weight:500;
+
 }
 
 .recipetext li{
